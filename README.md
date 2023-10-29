@@ -1,11 +1,10 @@
-# tarisa
+===LOGIN VIEW===
+![image](https://github.com/tarisara/UTS-ADVANCE-MOBILE-PROGRAMMING/assets/149305465/b7c0080a-47c6-4280-bb11-d75af7043eb9)
 
-A new Flutter module project.
+===DASHBOARD VIEW===
+![image](https://github.com/tarisara/UTS-ADVANCE-MOBILE-PROGRAMMING/assets/149305465/8eeb799e-33da-43bd-b51f-3b4d46609750)
 
-## Getting Started
+===PROFILE VIEW===
+![image](https://github.com/tarisara/UTS-ADVANCE-MOBILE-PROGRAMMING/assets/149305465/51623797-e71a-41b4-bc92-4d19b68c26e4)
 
-For help getting started with Flutter development, view the online
-[documentation](https://flutter.dev/).
-
-For instructions integrating Flutter modules to your existing applications,
-see the [add-to-app documentation](https://flutter.dev/docs/development/add-to-app).
+DONE YAA :)
